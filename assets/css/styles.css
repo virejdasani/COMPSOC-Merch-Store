@@ -651,3 +651,12 @@ img {
         padding: 1rem 2rem;
     }
 }
+
+.section-countdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: var(--mb-6);
+    font-weight: 600;
+}
