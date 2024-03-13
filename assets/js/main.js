@@ -92,7 +92,7 @@ window.onscroll = () => {
 
       // in the doc with id 'countdown', set day:hour:minute:second
       document.getElementById("countdown").innerText =
-        "Avaible for " +
+        "Available for " +
         Math.floor(distance / day) +
         "d " +
         Math.floor((distance % day) / hour) +
