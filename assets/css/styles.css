@@ -660,3 +660,11 @@ img {
     margin-bottom: var(--mb-6);
     font-weight: 600;
 }
+
+.selling_fast {
+    /* italics, thin bold */
+    font-style: italic;
+    font-weight: 300;
+    /* left align */
+    text-align: left;
+}
