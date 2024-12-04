@@ -1,4 +1,7 @@
   document.addEventListener("DOMContentLoaded", function () {
+
+    console.log("remote code run");
+    
     // Get all elements with class name .artwork_piece
     var artworkPieces = document.querySelectorAll(".artwork_piece");
 
